@@ -1,4 +1,12 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=240&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
 </p>
 
