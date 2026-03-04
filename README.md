@@ -28,14 +28,6 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ---
 
-# 🌐 Portfolio
-
-💼 Personal Portfolio  
-🔗 https://brijeshkumarmohanty.vercel.app/
-
-Explore my projects, skills, and development journey through my personal developer portfolio.
-
----
 
 ---
 
@@ -137,6 +129,10 @@ JavaScript • Web Development
 # 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://brijeshkumarmohanty.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/brijesh-kumar-mohanty">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
