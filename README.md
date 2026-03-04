@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=40&fontColor=ffffff)
 <!--
 **brijeshkumar2024/brijeshkumar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
