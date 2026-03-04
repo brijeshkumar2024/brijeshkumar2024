@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=brijeshkumar2024&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://profile-counter.glitch.me/brijeshkumar2024/count.svg"/>
 </p>
 
 ---
@@ -136,7 +136,13 @@ HTML • CSS • JavaScript
 # 📊 GitHub Stats
 
 <p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshkumar2024&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
