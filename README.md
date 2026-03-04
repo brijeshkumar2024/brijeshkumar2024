@@ -48,19 +48,43 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ---
 
-# 🚀 Featured Projects
+---
 
-### 🍔 Foodora
-Restaurant management platform with dynamic menu and order processing.
+# 🚀 Live Projects
 
-### 📊 Smart Attendance
-Real-time attendance tracking system with analytics dashboard.
+### 📊 Smart Attendance System
+
+🔗 Live Demo  
+https://smart-attendance-eosin-ten.vercel.app/
+
+A smart attendance tracking system that allows users to mark and monitor attendance digitally with a simple dashboard.
+
+Tech Stack  
+React • Node.js • MongoDB • JavaScript
+
+---
 
 ### 🛒 Mohanty Mart
-E-commerce style inventory and management system.
+
+🔗 Live Demo  
+https://mohantymart.netlify.app/
+
+An e-commerce style web application that allows users to browse products and simulate an online shopping experience.
+
+Tech Stack  
+HTML • CSS • JavaScript
+
+---
 
 ### 🤝 Team Nexora
-Collaborative project platform.
+
+🔗 Live Demo  
+https://team-nexora.vercel.app/
+
+A collaborative web platform designed for team interaction and project presentation.
+
+Tech Stack  
+JavaScript • Web Development
 
 ---
 
