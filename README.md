@@ -114,6 +114,7 @@ A collaborative web platform designed for team interaction and project presentat
 Tech Stack  
 JavaScript • Web Development
 
+---
 
 ### 🎭 Ganesh Chitralaya
 
