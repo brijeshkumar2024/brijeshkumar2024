@@ -4,35 +4,48 @@
 
 <h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
 
+<h3 align="center">
+AI Engineer • Machine Learning Developer • Full Stack Developer
+</h3>
+
 <p align="center">
-AI / Machine Learning Developer • Full Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=45">
+<img src="https://komarev.com/ghpvc/?username=brijeshkumar2024&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/brijeshkumar2024?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science – CV Raman Global University  
+🎓 **B.Tech Computer Science – CV Raman Global University**
 
-🚀 Passionate about **Artificial Intelligence, Machine Learning and Backend Systems**
+🚀 Passionate about building **AI systems, Machine Learning models and scalable backend platforms**
 
-💡 Interested in building **real-world intelligent systems**
+💡 Interested in **Artificial Intelligence, Computer Vision and Intelligent Automation**
 
 ⚡ Strong foundation in **Data Structures & Algorithms**
 
-🌱 Currently exploring **Deep Learning & Computer Vision**
+🌱 Currently exploring **Deep Learning & Advanced AI Systems**
 
-📍 Bhubaneswar, India
+📍 **Bhubaneswar, India**
+
+---
+
+# 🧠 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -62,33 +75,17 @@ AI / Machine Learning Developer • Full Stack Developer
 
 # 🚀 Featured Projects
 
-### 🍔 Foodora – Restaurant Management Platform
+<p align="center">
 
-Full-stack restaurant management system enabling dynamic menu updates, pricing control and real-time order processing.
+<a href="https://github.com/brijeshkumar2024/Foodora">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Foodora&theme=tokyonight"/>
+</a>
 
-Tech Stack  
-HTML • CSS • JavaScript • Node.js • OracleDB • REST APIs
+<a href="https://github.com/brijeshkumar2024/Smart-Attendance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Smart-Attendance&theme=tokyonight"/>
+</a>
 
----
-
-### 🌍 AI-Based Disaster Risk Prediction System
-
-Machine learning system for predicting flood and fire risks using real-world datasets.
-
-Tech Stack  
-Python • Flask • NumPy • Pandas • Machine Learning
-
----
-
-### 📊 Smart Attendance System
-
-Real-time attendance system with authentication and analytics dashboard.
-
-Tech Stack  
-React • Node.js • Express • MongoDB • JWT • Socket.IO
-
-Live Demo  
-https://smart-attendance-eosin-ten.vercel.app
+</p>
 
 ---
 
@@ -129,13 +126,7 @@ https://smart-attendance-eosin-ten.vercel.app
 
 ---
 
-# 🔥 3D Contribution Graph
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brijeshkumar2024&theme=tokyonight"/>
-</p>
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
 
@@ -143,32 +134,30 @@ https://smart-attendance-eosin-ten.vercel.app
 
 # 🐍 Contribution Snake
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/brijeshkumar2024/brijeshkumar2024/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 👀 Profile Visitors
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=brijeshkumar2024&label=Profile%20Views&color=blue&style=for-the-badge">
+
+<a href="https://linkedin.com/in/brijesh-kumar-mohanty">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:brijeshmohanty13@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/brijeshkumar2024">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-LinkedIn  
-https://linkedin.com/in/brijesh-kumar-mohanty
-
-Email  
-brijeshmohanty13@gmail.com
-
-GitHub  
-https://github.com/brijeshkumar2024
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a **star** to my repositories!
