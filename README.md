@@ -23,13 +23,13 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 🎓 B.Tech Computer Science – CV Raman Global University  
 
-🚀 Passionate about building **AI systems, Machine Learning models and scalable backend platforms**
+🚀 Passionate about **Artificial Intelligence, Machine Learning and scalable backend systems**
 
-💡 Interested in **Artificial Intelligence, Computer Vision and Intelligent Automation**
+💡 Interested in **AI, Computer Vision and Intelligent Automation**
 
 ⚡ Strong foundation in **Data Structures & Algorithms**
 
-🌱 Currently exploring **Deep Learning & Advanced AI Systems**
+🌱 Currently exploring **Deep Learning**
 
 📍 Bhubaneswar, India
 
@@ -45,7 +45,7 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 # 🚀 Tech Stack
 
-### Programming Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -56,7 +56,6 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 
 ### Databases
 
@@ -77,13 +76,13 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 <p align="center">
 
-<a href="https://github.com/brijeshkumar2024/Foodora">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Foodora&theme=tokyonight"/>
-</a>
 
-<a href="https://github.com/brijeshkumar2024/Smart-Attendance">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Smart-Attendance&theme=tokyonight"/>
-</a>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Mohanty_Mart&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Team_Nexora&theme=tokyonight"/>
 
 </p>
 
@@ -94,14 +93,13 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 ✔ AWS Cloud Practitioner – GeeksforGeeks  
 ✔ React JS Development – GeeksforGeeks  
 ✔ SQL Mastery for Data Science – GeeksforGeeks  
-✔ IT Automation with Python – Coursera
+✔ IT Automation with Python – Coursera  
 
 ---
 
 # 🏅 Achievements
 
 ⭐ Campus Ambassador – Aspire Leaders Program  
-
 ⭐ Campus Mantri – GeeksforGeeks  
 
 ---
@@ -110,7 +108,7 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight"/>
 
@@ -126,10 +124,10 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
 </p>
 
 ---
