@@ -28,6 +28,17 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ---
 
+# 🌐 Portfolio
+
+💼 Personal Portfolio  
+🔗 https://brijeshkumarmohanty.vercel.app/
+
+Explore my projects, skills, and development journey through my personal developer portfolio.
+
+---
+
+---
+
 # 🚀 Tech Stack
 
 ### Programming
