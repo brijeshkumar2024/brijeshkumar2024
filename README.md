@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi 👋 I'm Brijesh Kumar Mohanty
+
+🚀 AI / Machine Learning Developer  
+📍 Bhubaneswar, India  
+
+- 🔭 Working on **AI + Deep Learning Projects**
+- 🌱 Currently learning **Advanced Machine Learning**
+- 💡 Interested in **Medical AI & Computer Vision**
+- ⚡ Building real world AI products
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=40&fontColor=ffffff)
 <!--
 **brijeshkumar2024/brijeshkumar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
