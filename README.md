@@ -53,3 +53,70 @@ I enjoy building **real-world AI products, full-stack platforms, and intelligent
 Full-stack restaurant management system enabling dynamic menu updates, pricing control, and real-time order processing.
 
 **Tech Stack**
+HTML • CSS • JavaScript • Node.js • OracleDB • REST APIs
+
+---
+
+## 🌍 AI-Based Disaster Risk Prediction System
+Machine learning system for predicting flood and fire risks using real-world datasets.
+
+**Tech Stack**
+Python • Flask • NumPy • Pandas • Machine Learning
+
+---
+
+## 📊 Smart Attendance System
+Real-time attendance system with authentication and analytics dashboard.
+
+**Tech Stack**
+React • Node.js • Express • MongoDB • JWT • Socket.IO
+
+🔗 Live Demo  
+https://smart-attendance-eosin-ten.vercel.app
+
+---
+
+# 📜 Certifications
+
+✔ AWS Cloud Practitioner – GeeksforGeeks  
+✔ React JS Development – GeeksforGeeks  
+✔ SQL Mastery for Data Science – GeeksforGeeks  
+✔ IT Automation with Python – Coursera
+
+---
+
+# 🏆 Achievements
+
+⭐ Campus Ambassador – Aspire Leaders Program  
+⭐ Campus Mantri – GeeksforGeeks  
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=brijeshkumar2024&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/brijesh-kumar-mohanty
+
+📧 Email  
+brijeshmohanty13@gmail.com
+
+💻 GitHub  
+https://github.com/brijeshkumar2024
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
