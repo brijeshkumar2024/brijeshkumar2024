@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
 </p>
 
-# 👁 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=brijeshkumar2024&label=Profile%20Views&color=blue&style=for-the-badge"/>
