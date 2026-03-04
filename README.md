@@ -137,12 +137,14 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=brijeshkumar2024&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
