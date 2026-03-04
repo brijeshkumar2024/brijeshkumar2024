@@ -21,7 +21,7 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science – CV Raman Global University**
+🎓 B.Tech Computer Science – CV Raman Global University  
 
 🚀 Passionate about building **AI systems, Machine Learning models and scalable backend platforms**
 
@@ -31,7 +31,7 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 🌱 Currently exploring **Deep Learning & Advanced AI Systems**
 
-📍 **Bhubaneswar, India**
+📍 Bhubaneswar, India
 
 ---
 
@@ -110,9 +110,9 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -128,7 +128,9 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 # 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -160,4 +162,4 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 ---
 
-⭐ If you like my work, consider giving a **star** to my repositories!
+⭐ If you like my work, consider giving a **star ⭐ to my repositories!**
