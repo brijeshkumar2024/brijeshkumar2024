@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
-</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
@@ -8,9 +6,9 @@
 
 <h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
 
-<h3 align="center">
-AI Engineer • Machine Learning Developer • Full Stack Developer
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
+</p>
 
 ---
 
