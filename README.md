@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
@@ -16,96 +12,48 @@
 AI Engineer • Machine Learning Developer • Full Stack Developer
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=520&height=45">
-</p>
-
 ---
 
 # 👨‍💻 About Me
 
 🎓 B.Tech Computer Science – CV Raman Global University  
 
-🚀 Passionate about **Artificial Intelligence, Machine Learning and scalable systems**
+🚀 Passionate about Artificial Intelligence, Machine Learning and scalable backend systems
 
-💡 Interested in **AI, Computer Vision and Intelligent Automation**
+💡 Interested in AI, Computer Vision and Intelligent Automation
 
-⚡ Strong foundation in **Data Structures & Algorithms**
+⚡ Strong foundation in Data Structures & Algorithms
 
 📍 Bhubaneswar, India
 
 ---
 
-
----
-
 # 🚀 Tech Stack
 
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,react,mongodb,mysql,git,github,vscode,linux&perline=6"/>
+</p>
 
 ---
 
-### Web Development
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-
----
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![OracleDB](https://img.shields.io/badge/OracleDB-red?style=for-the-badge&logo=oracle)
-
----
-
-### Data Science & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-
----
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-![JWT](https://img.shields.io/badge/JWT-red?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
-
----
-
-# 🚀 Live Projects
+# 🚀 Featured Projects
 
 ### 📊 Smart Attendance System
 
-🔗 Live Demo  
-https://smart-attendance-eosin-ten.vercel.app/
+🔗 https://smart-attendance-eosin-ten.vercel.app/
 
-A smart attendance tracking system that allows users to mark and monitor attendance digitally with a simple dashboard.
+Real-time attendance tracking system with authentication and dashboard analytics.
 
 Tech Stack  
-React • Node.js • MongoDB • JavaScript
+React • Node.js • MongoDB • JWT
 
 ---
 
 ### 🛒 Mohanty Mart
 
-🔗 Live Demo  
-https://mohantymart.netlify.app/
+🔗 https://mohantymart.netlify.app/
 
-An e-commerce style web application that allows users to browse products and simulate an online shopping experience.
+An e-commerce style web application where users can explore and browse products.
 
 Tech Stack  
 HTML • CSS • JavaScript
@@ -114,10 +62,9 @@ HTML • CSS • JavaScript
 
 ### 🤝 Team Nexora
 
-🔗 Live Demo  
-https://team-nexora.vercel.app/
+🔗 https://team-nexora.vercel.app/
 
-A collaborative web platform designed for team interaction and project presentation.
+A collaborative platform designed for team interaction and project presentation.
 
 Tech Stack  
 JavaScript • Web Development
@@ -126,15 +73,20 @@ JavaScript • Web Development
 
 ### 🎭 Ganesh Chitralaya
 
-🔗 Live Demo  
-https://ganeshchitralaya.netlify.app/
+🔗 https://ganeshchitralaya.netlify.app/
 
-A cultural costume showcase website featuring different traditional costume categories and customer feedback sections.
+A cultural costume showcase website featuring traditional costumes and customer feedback.
 
 Tech Stack  
 HTML • CSS • JavaScript
 
 ---
+
+### 🌐 Personal Portfolio
+
+🔗 https://brijeshkumarmohanty.vercel.app/
+
+A personal developer portfolio showcasing projects, skills and certifications.
 
 ---
 
@@ -151,13 +103,23 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshkumar2024&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshkumar2024&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
@@ -190,3 +152,7 @@ HTML • CSS • JavaScript
 </a>
 
 </p>
+
+---
+
+⭐ If you like my work, consider starring my repositories.
