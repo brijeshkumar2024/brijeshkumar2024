@@ -1,82 +1,98 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=200&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=40&fontColor=ffffff)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
+</p>
 
-# Hi 👋 I'm Brijesh Kumar Mohanty
+<h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
 
-🚀 AI / Machine Learning Developer  
-💻 Full Stack Developer  
-📍 Bhubaneswar, India  
+<p align="center">
+AI / Machine Learning Developer • Full Stack Developer
+</p>
 
-I am a Computer Science undergraduate passionate about **Artificial Intelligence, Machine Learning, and scalable backend systems**.  
-I enjoy building **real-world AI products, full-stack platforms, and intelligent automation systems**.
-
----
-
-# 🧠 About Me
-
-- 🎓 B.Tech Computer Science – CV Raman Global University  
-- 🤖 Interested in **AI, Machine Learning, and Computer Vision**
-- ⚡ Strong foundation in **Data Structures & Algorithms**
-- 🔥 Building **real-world scalable applications**
-- 🌱 Currently exploring **Deep Learning & Advanced AI Systems**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
+🎓 B.Tech Computer Science – CV Raman Global University  
+
+🚀 Passionate about **Artificial Intelligence, Machine Learning and Backend Systems**
+
+💡 Interested in building **real-world intelligent systems**
+
+⚡ Strong foundation in **Data Structures & Algorithms**
+
+🌱 Currently exploring **Deep Learning & Computer Vision**
+
+📍 Bhubaneswar, India
+
+---
+
+# 🚀 Tech Stack
+
+### Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ### Web Development
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![OracleDB](https://img.shields.io/badge/OracleDB-red?style=for-the-badge&logo=oracle)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍔 Foodora – Restaurant Management Platform
-Full-stack restaurant management system enabling dynamic menu updates, pricing control, and real-time order processing.
+### 🍔 Foodora – Restaurant Management Platform
 
-**Tech Stack**
+Full-stack restaurant management system enabling dynamic menu updates, pricing control and real-time order processing.
+
+Tech Stack  
 HTML • CSS • JavaScript • Node.js • OracleDB • REST APIs
 
 ---
 
-## 🌍 AI-Based Disaster Risk Prediction System
+### 🌍 AI-Based Disaster Risk Prediction System
+
 Machine learning system for predicting flood and fire risks using real-world datasets.
 
-**Tech Stack**
+Tech Stack  
 Python • Flask • NumPy • Pandas • Machine Learning
 
 ---
 
-## 📊 Smart Attendance System
+### 📊 Smart Attendance System
+
 Real-time attendance system with authentication and analytics dashboard.
 
-**Tech Stack**
+Tech Stack  
 React • Node.js • Express • MongoDB • JWT • Socket.IO
 
-🔗 Live Demo  
+Live Demo  
 https://smart-attendance-eosin-ten.vercel.app
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
 ✔ AWS Cloud Practitioner – GeeksforGeeks  
 ✔ React JS Development – GeeksforGeeks  
@@ -85,36 +101,65 @@ https://smart-attendance-eosin-ten.vercel.app
 
 ---
 
-# 🏆 Achievements
+# 🏅 Achievements
 
 ⭐ Campus Ambassador – Aspire Leaders Program  
+
 ⭐ Campus Mantri – GeeksforGeeks  
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=brijeshkumar2024&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=brijeshkumar2024&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=brijeshkumar2024&label=Profile%20Views&color=blue&style=for-the-badge">
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn  
+LinkedIn  
 https://linkedin.com/in/brijesh-kumar-mohanty
 
-📧 Email  
+Email  
 brijeshmohanty13@gmail.com
 
-💻 GitHub  
+GitHub  
 https://github.com/brijeshkumar2024
 
 ---
