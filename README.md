@@ -114,6 +114,19 @@ A collaborative web platform designed for team interaction and project presentat
 Tech Stack  
 JavaScript • Web Development
 
+
+### 🎭 Ganesh Chitralaya
+
+🔗 Live Demo  
+https://ganeshchitralaya.netlify.app/
+
+A cultural costume showcase website featuring different traditional costume categories and customer feedback sections.
+
+Tech Stack  
+HTML • CSS • JavaScript
+
+---
+
 ---
 
 # 🏆 Certifications
