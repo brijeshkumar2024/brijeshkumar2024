@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Real+World+AI+Products;Open+Source+Learner" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=240&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
@@ -38,48 +34,11 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 # 🚀 Tech Stack
 
-### Programming
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,react,mongodb,mysql,git,github,vscode,linux&perline=6"/>
 
----
-
-### Web Development
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-
----
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![OracleDB](https://img.shields.io/badge/OracleDB-red?style=for-the-badge&logo=oracle)
-
----
-
-### Data Science & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-
----
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-![JWT](https://img.shields.io/badge/JWT-red?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
+</p>
 
 ---
 
@@ -91,12 +50,28 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Smart-Attendance&theme=tokyonight"/>
 </a>
 
+<a href="https://team-nexora.vercel.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Team_Nexora&theme=tokyonight"/>
+</a>
+
 <a href="https://mohantymart.netlify.app/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Mohanty_Mart&theme=tokyonight"/>
 </a>
 
-<a href="https://team-nexora.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshkumar2024&repo=Team_Nexora&theme=tokyonight"/>
+</p>
+
+---
+
+# 🖼 Project Preview
+
+<p align="center">
+
+<a href="https://smart-attendance-eosin-ten.vercel.app/">
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600" width="350"/>
+</a>
+
+<a href="https://ganeshchitralaya.netlify.app/">
+<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600" width="350"/>
 </a>
 
 </p>
@@ -106,7 +81,9 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brijeshkumar2024&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=brijeshkumar2024&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -124,8 +101,18 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshkumar2024&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshkumar2024&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshkumar2024&theme=tokyonight"/>
 </p>
 
 ---
@@ -134,6 +121,14 @@ AI Engineer • Machine Learning Developer • Full Stack Developer
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brijeshkumar2024&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧊 3D Contribution Cube
+
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
