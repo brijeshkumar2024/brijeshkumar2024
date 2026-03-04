@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=Brijesh%20Kumar%20Mohanty&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Brijesh Kumar Mohanty</h1>
@@ -9,7 +9,7 @@ AI / Machine Learning Developer • Full Stack Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 ---
@@ -128,6 +128,12 @@ https://smart-attendance-eosin-ten.vercel.app
 </p>
 
 ---
+
+# 🔥 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brijeshkumar2024&theme=tokyonight"/>
+</p>
 
 # 📈 Contribution Graph
 
