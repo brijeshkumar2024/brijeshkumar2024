@@ -281,6 +281,27 @@ A decision-engine system transforming business signals into structured actions t
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql,react,nextjs,tailwind,vite,nodejs,express,fastapi,spring,pytorch,mongodb,redis,aws,docker,git,github,linux,vscode&theme=dark&perline=11"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/BullMQ-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-059669?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📋&nbsp; Full stack breakdown</b></summary>
+<br/>
+
 **Languages**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -305,7 +326,7 @@ A decision-engine system transforming business signals into structured actions t
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-D97706?style=for-the-badge"/>
 
 **Databases & Infrastructure**
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -322,7 +343,7 @@ A decision-engine system transforming business signals into structured actions t
 <img src="https://img.shields.io/badge/REST_APIs-F97316?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge"/>
 
-</div>
+</details>
 
 <br/>
 
@@ -386,6 +407,10 @@ Web Development 101 — PupilFirst
 ## &nbsp;📊&nbsp; GitHub Activity
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=brijeshkumar2024&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=brijeshkumar2024&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0B0F19&title_color=D97706&icon_color=059669&text_color=E2E8F0" height="170"/>
 <img src="https://streak-stats.demolab.com?user=brijeshkumar2024&theme=tokyonight&hide_border=true&background=0B0F19&ring=D97706&fire=DB2777&currStreakLabel=E2E8F0" height="170"/>
